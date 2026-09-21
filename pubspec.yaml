@@ -1,0 +1,15 @@
+name: ain_alsouq
+description: عين السوق - تطبيق التحقق من المنتجات والأسعار
+publish_to: "none"
+version: 1.5.2+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
